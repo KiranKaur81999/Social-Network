@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://kiran8:kiran8@cluster0.kogws.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"df641c8d5d7ec50ee65d",
+    "githubSecret":"53875bbcdff646d89d7aee452ad95947c036f74e"
+}
